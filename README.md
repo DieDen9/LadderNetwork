@@ -7,3 +7,11 @@ Original code : Aleum's repositry  https://github.com/Aleum/Ladder-Network
 [x] Plotting confusion matrix to tensorboard. <br/>
 [ ] Modify network to fit new datasets. <br/>
 [ ] Change combinator function. <br/>
+
+
+
+
+
+
+Example of TensorBoard confusion matrix:
+<img src="individualImage.png" />
