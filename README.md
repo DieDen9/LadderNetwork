@@ -4,6 +4,6 @@ Original code : Aleum's repositry  https://github.com/Aleum/Ladder-Network
 
 ### TODO:
 
-[x] Plotting confusion matrix to tensorboard.
-[ ] Modify network to fit new datasets.
-[ ] Change combinator function.
+[x] Plotting confusion matrix to tensorboard. <br/>
+[ ] Modify network to fit new datasets. <br/>
+[ ] Change combinator function. <br/>
